@@ -15,4 +15,4 @@ The Need : Timely, Accurate and easily accessible information for key stakeholde
 The Objective : The primary goal is to create a platform that offers clear, realtime covid-19 data for the US, focusing on key metrics like Confirmed Cases,Recovery cases, Deaths,Testing Rate, Hospitalization rate.
 
 
-
+![Screenshot (51)](https://github.com/Rushi-Dighe/Covid19_Healthcare/assets/85949775/ace42c08-fe5d-44aa-95f1-f1f9837d3cc3)
